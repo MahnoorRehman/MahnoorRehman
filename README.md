@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahnoor Rehman,Inoovative web Developer</h1>
+<h1 align="center">Hi 👋, I'm Mahnoor Rehman</h1>
 <h3 align="center">An enthusiastic Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
