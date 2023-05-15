@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahnoor Rehman</h1>
+<h1 align="center">Hi 👋, I'm Mahnoor Rehman,Inoovative web Developer</h1>
 <h3 align="center">An enthusiastic Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoorrehman&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoorrehman" /> </p>
 
-- 🔭 I’m currently working on **ERP Project**
+
 
 - 🌱 I’m currently learning **React js,TS**
 
