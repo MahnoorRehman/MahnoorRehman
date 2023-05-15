@@ -7,11 +7,14 @@
 
 
 
+
+
 - 🌱 I’m currently learning **React js,TS**
 
 - 📫 How to reach me **mahnoor.uk95@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sxoYgJSNkzFkccW98Z5nDVM00YN9tcsi/view?usp=sharing](https://drive.google.com/file/d/1sxoYgJSNkzFkccW98Z5nDVM00YN9tcsi/view?usp=sharing)
+- 
 
 </br>
 </br>
